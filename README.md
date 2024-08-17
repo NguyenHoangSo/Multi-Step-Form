@@ -1,3 +1,4 @@
+?theme=solarized-light
 # My project is wrote by HTML, CSS and JavaScript with three pages
 ## Create account 
   + Your name
